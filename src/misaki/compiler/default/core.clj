@@ -7,7 +7,8 @@
     [cljs.closure  :only [build]]
     [hiccup.core   :only [html]]
     [hiccup.page   :only [html5 xhtml html4]]
-    [clojure.core.incubator :only [-?>>]])
+    [clojure.core.incubator :only [-?>>]]
+    [markdown.core])
   (:require
     [misaki.core     :as msk]
     [misaki.config   :as cnf]

@@ -8,6 +8,7 @@
 /checkouts
 /.lein-deps-sum
 /blog
+/.emacs*
 /test/public
 /samples/*/public/2011-01
 /samples/*/public/2012-02
@@ -16,3 +17,4 @@
 /samples/*/public/index.html
 /doc/public/js/hello.js
 /doc/public/js/cljs
+/DASpringate_blog/public

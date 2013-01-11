@@ -1,0 +1,173 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Fri Jan 11 14:30:50 2013
+;; Desktop file format version 206
+;; Emacs version 23.3.1
+
+;; Global section:
+(setq windata-named-winconf nil)
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring nil)
+(setq register-alist '((48 . "(first a)")))
+(setq file-name-history '("~/clojure/misaki/DASpringate_blog/" "~/clojure/misaki/DASpringate_blog/papers.clj" "~/clojure/misaki/DASpringate_blog/papers" "~/clojure/misaki/DASpringate_blog/" "~/clojure/misaki/DASpringate_blog/template/layouts/default.clj" "~/clojure/misaki/DASpringate_blog/template/atom.xml.clj" "~/clojure/misaki/DASpringate_blog/_config.clj" "~/clojure/misaki/DASpringate_blog/template/index.html.clj" "~/clojure/misaki/DASpringate_blog/template/posts/2011-01-01-post1.html.clj" "~/clojure/misaki/DASpringate_blog/_config.clj" "~/clojure/misaki/DASpringate_blog/template/layouts/post.clj" "~/clojure/misaki/DASpringate_blog/template/layouts/default.clj" "~/clojure/misaki/DASpringate_blog/template/index.html.clj" "~/clojure/misaki/project.clj" "~/clojure/misaki/" "~/.emacs.d/init.el" "~/clojure/codesdb/src/codesdb/views/links.clj" "~/clojure/codesdb/src/codesdb/views/about.clj" "~/clojure/codesdb/src/lobos/migrations.clj" "~/clojure/codesdb/src/codesdb/views/home.clj" "~/clojure/codesdb/src/codesdb/views/contact.clj" "~/clojure/codesdb/project.clj" "~/clojure/codesdb/src/" "~/clojure/codesdb/src/codesdb/models/post.clj" "~/clojure/codesdb/.env" "~/clojure/codesdb/src/codesdb/config.clj" "~/clojure/codesdb/setup.sh" "~/clojure/codesdb/Procfile" "~/.emacs.d/init.el" "~/clojure/codesdb/project.clj"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/david/clojure/misaki/DASpringate_blog/template/research.html.clj"
+  "research.html.clj"
+  'clojure-mode
+  '(eldoc-mode nrepl-interaction-mode paredit-mode)
+  1505
+  '(1353 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/david/clojure/misaki/DASpringate_blog/public/resources/papers.clj"
+  "papers.clj"
+  'clojure-mode
+  '(eldoc-mode nrepl-interaction-mode paredit-mode)
+  7025
+  '(8250 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/david/clojure/misaki/DASpringate_blog/template/about.html.clj"
+  "about.html.clj"
+  'clojure-mode
+  '(eldoc-mode nrepl-interaction-mode paredit-mode)
+  2110
+  '(2103 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/david/clojure/misaki/DASpringate_blog/template/papers.html.clj"
+  "papers.html.clj"
+  'clojure-mode
+  '(eldoc-mode nrepl-interaction-mode paredit-mode)
+  465
+  '(69 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/david/clojure/misaki/DASpringate_blog/template/layouts/default.clj"
+  "default.clj"
+  'clojure-mode
+  '(eldoc-mode nrepl-interaction-mode paredit-mode linum-mode)
+  1044
+  '(1193 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/david/clojure/misaki/DASpringate_blog/template/index.html.clj"
+  "index.html.clj"
+  'clojure-mode
+  '(eldoc-mode nrepl-interaction-mode paredit-mode linum-mode)
+  204
+  '(68 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/david/clojure/misaki/DASpringate_blog/template/atom.xml.clj"
+  "atom.xml.clj"
+  'clojure-mode
+  '(eldoc-mode nrepl-interaction-mode paredit-mode)
+  414
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/david/clojure/misaki/DASpringate_blog/public/index.html"
+  "index.html"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/david/clojure/misaki/DASpringate_blog/_config.clj"
+  "_config.clj"
+  'clojure-mode
+  '(eldoc-mode nrepl-interaction-mode paredit-mode)
+  691
+  '(584 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/david/clojure/misaki/DASpringate_blog/template/layouts/post.clj"
+  "post.clj"
+  'clojure-mode
+  '(eldoc-mode nrepl-interaction-mode paredit-mode)
+  51
+  '(138 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/david/clojure/misaki/DASpringate_blog/NOTICE"
+  "NOTICE"
+  'fundamental-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/david/clojure/misaki/DASpringate_blog/template/posts/2011-01-01-post1.html.clj"
+  "2011-01-01-post1.html.clj"
+  'clojure-mode
+  '(eldoc-mode nrepl-interaction-mode paredit-mode)
+  330
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/david/clojure/misaki/DASpringate_blog/template/layouts/tag.clj"
+  "tag.clj"
+  'clojure-mode
+  '(eldoc-mode nrepl-interaction-mode paredit-mode)
+  150
+  '(50 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/david/clojure/misaki/project.clj"
+  "project.clj"
+  'clojure-mode
+  '(eldoc-mode nrepl-interaction-mode paredit-mode)
+  1043
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+

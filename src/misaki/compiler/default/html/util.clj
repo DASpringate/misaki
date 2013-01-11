@@ -1,6 +1,8 @@
 (ns misaki.compiler.default.html.util
   "HTML Service Utilities"
-  (:require [hiccup.page :as page]))
+  (:require [hiccup.page :as page]
+            [markdown.core :as md]))
+
 
 ;; ## GitHub
 
@@ -52,3 +54,10 @@
      label]
    (page/include-js "//platform.twitter.com/widgets.js")
    ])
+
+;; Markdown support:
+
+(def markdown md/md-to-html-string)
+
+
+

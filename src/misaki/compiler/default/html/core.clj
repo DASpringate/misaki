@@ -7,11 +7,22 @@
     [clojure.string   :as str]
     [hiccup.core      :as hiccup]
     [hiccup.page      :as page]
+    [hiccup.element   :as elem]
     [misaki.config    :as cnf]
     [misaki.util.date :as date]
     [misaki.compiler.default.html.conv :as conv]))
 
 (declare link)
+
+
+; hiccup element utils
+;
+
+(def link-to elem/link-to)
+(def image elem/image)
+;(def html hiccup/html)
+
+
 
 ;; ## Utilities
 
