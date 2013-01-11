@@ -1,4 +1,4 @@
-; @title  misaki
+; @title  David Springate blog
 ; @base   http://localhost:8080
 
 "<?xml version=\"1.0\" encoding=\"utf-8\"?>"
